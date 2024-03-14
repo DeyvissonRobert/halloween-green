@@ -12,6 +12,6 @@
   </div>
 
 <div align="center" display="inline-block">
-<img  alt="imagem do projeto no desktop" src="https://github.com/DeyvissonRobert/Projeto-7-Dev-Burger/blob/main/img/Dev%20Burger%20pc.gif">
-<img alt="imagem do projeto no mobile" src="https://github.com/DeyvissonRobert/Projeto-7-Dev-Burger/blob/main/img/DevBurger%20mobile.png">
+<img  alt="imagem do projeto no desktop" src="https://github.com/DeyvissonRobert/halloween-green/blob/main/assets/Halloween%20Descktop.png">
+<img alt="imagem do projeto no mobile" src="https://github.com/DeyvissonRobert/halloween-green/blob/main/assets/Halloween%20Mobile.png">
 </div>
