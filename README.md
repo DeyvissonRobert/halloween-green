@@ -1,5 +1,5 @@
  > [!CAUTION]
- > Falta melhorar essa foto!
+ > Irei melhorar essa foto abaixo!
 <div align="center">
   
 # ✧ Projeto Halloween Green ✧
